@@ -61,3 +61,9 @@ function third(n) {
 
 Here you can check my projects on Upwork platform:
 [Upwork](https://www.upwork.com/freelancers/~015d34cb509d1ea415 "Upwork")
+
+My list of languages are following:
+* Ukrainian
+* Russian
+* English
+* Swedish
