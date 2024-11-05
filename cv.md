@@ -13,7 +13,7 @@ My main goal is to become a good worker.
 * Git
 
 Here are some examples of my code from CodeWars:
-`Find out whether the shape is a cube
+*Find out whether the shape is a cube
 
 var cubeChecker = function (volume, side) {
   if (side <= 0) {
@@ -24,16 +24,15 @@ var cubeChecker = function (volume, side) {
     return true;
   }
 };
-`
-`A Chain adding function
+
+*A Chain adding function
 
 var add = function(n) {
   const f = x => add(n + x)
   f.valueOf = () => n
   return f;
-}`
-`
-A String of Sorts
+}
+*A String of Sorts
 
 function sortString(string,ordering) {
   ordering=ordering.split``
@@ -41,8 +40,8 @@ function sortString(string,ordering) {
   let arr2 = string.split``.filter(v=>!ordering.includes(v))
   return arr1.join``+arr2.join``
 }
-`
-`A Rule of Divisibility by 13
+
+*A Rule of Divisibility by 13
 
 function third(n) {
    const dict=[1, 10, 9, 12, 3, 4]
